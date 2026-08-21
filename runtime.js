@@ -949,9 +949,9 @@
     });
 
     /* ===== Pointer navigation =====
-     * Desktop: right-click advances to the next slide (and suppresses the
-     * browser context menu). Mobile: a single touch tap advances a slide.
-     * Controls and presentation overlays retain their own click behaviour.
+     * Left-click / tap advances; right-click moves back and suppresses the
+     * browser context menu. Touch navigation is handled explicitly so mobile
+     * browsers do not rely on their synthesized click event.
      */
     function isNavigationControl(target) {
       return target && target.closest('.overview, .notes-overlay, .thumb, button, a, input, textarea, select, [data-no-slide-nav]');
@@ -960,13 +960,34 @@
     deck.addEventListener('contextmenu', function (e) {
       if (e.button !== 2 || isNavigationControl(e.target)) return;
       e.preventDefault();
-      go(idx + 1);
+      go(idx - 1);
     });
 
+    let touchStart = null;
+    let ignoreClickUntil = 0;
+
+    deck.addEventListener('touchstart', function (e) {
+      if (e.touches.length !== 1 || isNavigationControl(e.target)) {
+        touchStart = null;
+        return;
+      }
+      const touch = e.touches[0];
+      touchStart = { x: touch.clientX, y: touch.clientY };
+    }, { passive: true });
+
+    deck.addEventListener('touchend', function (e) {
+      if (!touchStart || isNavigationControl(e.target)) return;
+      const touch = e.changedTouches[0];
+      const moved = Math.abs(touch.clientX - touchStart.x) > 14 || Math.abs(touch.clientY - touchStart.y) > 14;
+      touchStart = null;
+      if (moved) return;
+      ignoreClickUntil = Date.now() + 700;
+      go(idx + 1);
+    }, { passive: true });
+
     deck.addEventListener('click', function (e) {
-      const coarsePointer = window.matchMedia && window.matchMedia('(pointer: coarse)').matches;
-      const isTouchTap = e.pointerType === 'touch' || (!e.pointerType && coarsePointer);
-      if (!isTouchTap || isNavigationControl(e.target)) return;
+      if (Date.now() < ignoreClickUntil) return;
+      if (isNavigationControl(e.target)) return;
       go(idx + 1);
     });
 
