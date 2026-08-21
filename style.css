@@ -120,8 +120,11 @@
 .tpl-game-weekly .rank-focus-heading { align-items: flex-end; display: flex; justify-content: space-between; margin: 40px 10px 16px; }
 .tpl-game-weekly .rank-focus-heading .h2 { font-size: 50px; }
 .tpl-game-weekly .rank-focus-heading > p { color: var(--text-3); font-family: var(--font-mono); font-size: 13px; margin: 0 0 7px; }
-.tpl-game-weekly .rank-focus { align-items: center; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow-lg); display: flex; height: min(68vh, 730px); justify-content: center; margin: 0 auto; overflow: hidden; padding: 13px; width: 100%; }
-.tpl-game-weekly .rank-focus img { background: var(--surface-2); border-radius: calc(var(--radius) - 10px); height: 100%; object-fit: contain; width: 100%; }
+.tpl-game-weekly .rank-focus { --rank-ratio: 1.93; align-items: center; aspect-ratio: var(--rank-ratio); background: transparent; border: 0; border-radius: var(--radius); box-shadow: var(--shadow-lg); display: flex; height: auto; justify-content: center; margin: 0 auto; overflow: hidden; padding: 0; width: min(100%, 1400px); width: min(100%, calc(min(68vh, 730px) * var(--rank-ratio))); }
+.tpl-game-weekly .rank-focus--overall { --rank-ratio: 1.9374; }
+.tpl-game-weekly .rank-focus--puzzle { --rank-ratio: 1.9177; }
+.tpl-game-weekly .rank-focus--family { --rank-ratio: 1.9247; }
+.tpl-game-weekly .rank-focus img { background: transparent; border-radius: inherit; display: block; height: 100%; object-fit: cover; width: 100%; }
 .tpl-game-weekly .rank-focus-caption { color: var(--text-3); font-family: var(--font-mono); font-size: 12px; margin: 10px 10px 0; }
 
 /* Yarn Flow */
