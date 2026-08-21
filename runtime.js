@@ -948,6 +948,28 @@
       }
     });
 
+    /* ===== Pointer navigation =====
+     * Desktop: right-click advances to the next slide (and suppresses the
+     * browser context menu). Mobile: a single touch tap advances a slide.
+     * Controls and presentation overlays retain their own click behaviour.
+     */
+    function isNavigationControl(target) {
+      return target && target.closest('.overview, .notes-overlay, .thumb, button, a, input, textarea, select, [data-no-slide-nav]');
+    }
+
+    deck.addEventListener('contextmenu', function (e) {
+      if (e.button !== 2 || isNavigationControl(e.target)) return;
+      e.preventDefault();
+      go(idx + 1);
+    });
+
+    deck.addEventListener('click', function (e) {
+      const coarsePointer = window.matchMedia && window.matchMedia('(pointer: coarse)').matches;
+      const isTouchTap = e.pointerType === 'touch' || (!e.pointerType && coarsePointer);
+      if (!isTouchTap || isNavigationControl(e.target)) return;
+      go(idx + 1);
+    });
+
     // hash deep-link
     function fromHash(){
       const m = /^#\/(\d+)/.exec(location.hash||'');
