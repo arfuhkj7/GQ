@@ -80,7 +80,7 @@
 .tpl-game-weekly .cover-showcase::before { background: radial-gradient(circle at 68% 54%, color-mix(in srgb, var(--accent-3) 42%, transparent), transparent 35%); content: ""; inset: 0; opacity: .8; position: absolute; }
 .tpl-game-weekly .cover-showcase::after { background: linear-gradient(90deg, var(--ink) 0%, color-mix(in srgb, var(--ink) 88%, transparent) 30%, transparent 64%), linear-gradient(0deg, color-mix(in srgb, var(--ink) 74%, transparent), transparent 44%); content: ""; inset: 0; position: absolute; z-index: 8; }
 .tpl-game-weekly .cover-showcase-cards { left: 68%; position: absolute; top: 51%; z-index: 2; }
-.tpl-game-weekly .cover-showcase-card { --x: 0px; --y: 0px; --rotate: 0deg; --delay: 0s; --order: 1; aspect-ratio: 1; background-color: var(--ink-soft); background-image: var(--cover-image); background-position: center; background-repeat: no-repeat; background-size: cover; border: 1px solid color-mix(in srgb, var(--inverse) 22%, transparent); border-radius: 16px; box-shadow: 0 26px 54px rgba(0, 0, 0, .34), 0 0 0 1px rgba(255, 255, 255, .06) inset; left: 0; opacity: 0; overflow: hidden; position: absolute; top: 0; transform: translate(-50%, calc(-50% + 62vh)) rotate(0deg) scale(1.08); transform-origin: 50% 50%; width: clamp(108px, 13.4vw, 252px); will-change: opacity, transform; z-index: var(--order); }
+.tpl-game-weekly .cover-showcase-card { --x: 0px; --y: 0px; --rotate: 0deg; --delay: 0s; --order: 1; aspect-ratio: 1; background-color: var(--ink-soft); background-image: var(--cover-image), var(--cover-placeholder); background-position: center; background-repeat: no-repeat; background-size: cover; border: 1px solid color-mix(in srgb, var(--inverse) 22%, transparent); border-radius: 16px; box-shadow: 0 26px 54px rgba(0, 0, 0, .34), 0 0 0 1px rgba(255, 255, 255, .06) inset; left: 0; opacity: 0; overflow: hidden; position: absolute; top: 0; transform: translate(-50%, calc(-50% + 62vh)) rotate(0deg) scale(1.08); transform-origin: 50% 50%; width: clamp(108px, 13.4vw, 252px); will-change: opacity, transform; z-index: var(--order); }
 .tpl-game-weekly .cover-showcase-card::after { background: linear-gradient(150deg, color-mix(in srgb, var(--ink) 3%, transparent), color-mix(in srgb, var(--ink) 45%, transparent)); content: ""; inset: 0; position: absolute; }
 .tpl-game-weekly .cover-slide.is-active .cover-showcase-card { animation: cover-showcase-card-enter 3.9s cubic-bezier(.16, 1, .3, 1) var(--delay) both; }
 .tpl-game-weekly .cover-slide:not(.is-active) .cover-showcase-card { animation: none; opacity: 0; }
@@ -299,4 +299,3 @@
   .tpl-game-weekly .phone img { height: 360px; }
   .tpl-game-weekly .rank-shot img { height: 225px; }
 }
-
