@@ -134,35 +134,6 @@
       document.body.appendChild(notes);
     }
 
-    /* ===== deferred images =====
-     * Slides share the same viewport, so normal image tags would all download
-     * immediately. Hydrate the current slide and prefetch only the next two.
-     */
-    function hydrateSlideImages(slide) {
-      if (!slide) return;
-      slide.querySelectorAll('img[data-src]').forEach((img) => {
-        const src = img.getAttribute('data-src');
-        if (!src) return;
-        img.setAttribute('src', src);
-        img.removeAttribute('data-src');
-      });
-    }
-
-    function prefetchUpcomingSlides(fromIndex) {
-      [1, 2].forEach((offset) => {
-        const slide = slides[fromIndex + offset];
-        if (!slide) return;
-        const hydrate = () => hydrateSlideImages(slide);
-        if (offset === 1) {
-          window.setTimeout(hydrate, 0);
-        } else if ('requestIdleCallback' in window) {
-          window.requestIdleCallback(hydrate, { timeout: 1200 });
-        } else {
-          window.setTimeout(hydrate, 180);
-        }
-      });
-    }
-
     /* ===== overview grid (O key) ===== */
     let overview = document.querySelector('.overview');
     function ensureOverview() {
@@ -195,7 +166,6 @@
         
         // Clone the slide content
         const clone = s.cloneNode(true);
-        hydrateSlideImages(clone);
         clone.className = 'slide is-active'; // force active styles
         clone.style.position = 'absolute';
         clone.style.inset = '0';
@@ -252,7 +222,6 @@
     /* ===== navigation ===== */
     function go(n, fromRemote){
       n = Math.max(0, Math.min(total-1, n));
-      hydrateSlideImages(slides[n]);
       slides.forEach((s,i) => {
         s.classList.toggle('is-active', i===n);
         s.classList.toggle('is-prev', i<n);
@@ -300,7 +269,6 @@
         bc.postMessage({ type: 'go', idx: n });
       }
 
-      prefetchUpcomingSlides(n);
     }
 
     /* ===== listen for remote navigation / theme changes ===== */
@@ -1038,4 +1006,3 @@
     go(idx);
   });
 })();
-
