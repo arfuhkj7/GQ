@@ -1,6 +1,7 @@
 /* Keep the established layout intact on a fitted 1440 x 810 presentation stage. */
 html, body { width: 100%; height: 100%; overflow: hidden; }
-body.tpl-game-weekly { background: var(--ink); }
+body.tpl-game-weekly { background: var(--bg); }
+body.tpl-game-weekly:has(.deck > .slide.is-active.dark-slide) { background: var(--ink); }
 .tpl-game-weekly .deck { position: absolute; width: 1440px; height: 810px; transform-origin: top left; }
 .tpl-game-weekly .slide { padding: 52px 80px 54px; }
 .tpl-game-weekly .source-corner { position: absolute; left: 80px; bottom: 28px; z-index: 5; font-size: 11px; color: var(--text-3); }
