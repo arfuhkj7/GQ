@@ -1,0 +1,681 @@
+{
+  "reportDate": "2026-10-12",
+  "country": "us",
+  "feeds": {
+    "overall-free": {
+      "updated": "2026-10-12T06:11:45-07:00",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Meowdoku!",
+          "developer": "Oakever Games",
+          "id": "6761760135",
+          "url": "https://apps.apple.com/us/app/meowdoku/id6761760135?uo=2"
+        },
+        {
+          "rank": 2,
+          "name": "Block Out! - Color Sort Puzzle",
+          "developer": "Grand Games A.Ş.",
+          "id": "6752672568",
+          "url": "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568?uo=2"
+        },
+        {
+          "rank": 3,
+          "name": "Magic Sort!",
+          "developer": "Grand Games A.Ş.",
+          "id": "6499209744",
+          "url": "https://apps.apple.com/us/app/magic-sort/id6499209744?uo=2"
+        },
+        {
+          "rank": 4,
+          "name": "CubeAway - 3DPuzzle",
+          "developer": "GOODROID,Inc.",
+          "id": "6760325543",
+          "url": "https://apps.apple.com/us/app/cubeaway-3dpuzzle/id6760325543?uo=2"
+        },
+        {
+          "rank": 5,
+          "name": "Bus Fever Party!",
+          "developer": "Lumi Games",
+          "id": "6746743297",
+          "url": "https://apps.apple.com/us/app/bus-fever-party/id6746743297?uo=2"
+        },
+        {
+          "rank": 6,
+          "name": "Roblox",
+          "developer": "Roblox Corporation",
+          "id": "431946152",
+          "url": "https://apps.apple.com/us/app/roblox/id431946152?uo=2"
+        },
+        {
+          "rank": 7,
+          "name": "Vita Mahjong",
+          "developer": "Vita Studio",
+          "id": "6468921495",
+          "url": "https://apps.apple.com/us/app/vita-mahjong/id6468921495?uo=2"
+        },
+        {
+          "rank": 8,
+          "name": "Rotate Rings",
+          "developer": "Nebula Studio",
+          "id": "6793924927",
+          "url": "https://apps.apple.com/us/app/rotate-rings/id6793924927?uo=2"
+        },
+        {
+          "rank": 9,
+          "name": "Township",
+          "developer": "Playrix",
+          "id": "638689075",
+          "url": "https://apps.apple.com/us/app/township/id638689075?uo=2"
+        },
+        {
+          "rank": 10,
+          "name": "All Dubs",
+          "developer": "Vaulty Studios Inc.",
+          "id": "6797929772",
+          "url": "https://apps.apple.com/us/app/all-dubs/id6797929772?uo=2"
+        }
+      ]
+    },
+    "overall-paid": {
+      "updated": "2026-10-12T06:11:45-07:00",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Minecraft: Play with Friends!",
+          "developer": "Mojang",
+          "id": "479516143",
+          "url": "https://apps.apple.com/us/app/minecraft-play-with-friends/id479516143?uo=2"
+        },
+        {
+          "rank": 2,
+          "name": "Heads Up!",
+          "developer": "Warner Bros.",
+          "id": "623592465",
+          "url": "https://apps.apple.com/us/app/heads-up/id623592465?uo=2"
+        },
+        {
+          "rank": 3,
+          "name": "Geometry Dash",
+          "developer": "RobTop Games AB",
+          "id": "625334537",
+          "url": "https://apps.apple.com/us/app/geometry-dash/id625334537?uo=2"
+        },
+        {
+          "rank": 4,
+          "name": "Plague Inc.",
+          "developer": "Ndemic Creations",
+          "id": "525818839",
+          "url": "https://apps.apple.com/us/app/plague-inc/id525818839?uo=2"
+        },
+        {
+          "rank": 5,
+          "name": "Bloons TD 6",
+          "developer": "Ninja Kiwi",
+          "id": "1118115766",
+          "url": "https://apps.apple.com/us/app/bloons-td-6/id1118115766?uo=2"
+        },
+        {
+          "rank": 6,
+          "name": "Red's First Flight",
+          "developer": "Rovio Entertainment Oyj",
+          "id": "1596736236",
+          "url": "https://apps.apple.com/us/app/reds-first-flight/id1596736236?uo=2"
+        },
+        {
+          "rank": 7,
+          "name": "MONOPOLY: The Board Game",
+          "developer": "Marmalade Game Studio",
+          "id": "1477966166",
+          "url": "https://apps.apple.com/us/app/monopoly-the-board-game/id1477966166?uo=2"
+        },
+        {
+          "rank": 8,
+          "name": "Stardew Valley",
+          "developer": "ConcernedApe",
+          "id": "1406710800",
+          "url": "https://apps.apple.com/us/app/stardew-valley/id1406710800?uo=2"
+        },
+        {
+          "rank": 9,
+          "name": "Five Nights at Freddy's",
+          "developer": "CLICKTEAM LLC USA",
+          "id": "912536422",
+          "url": "https://apps.apple.com/us/app/five-nights-at-freddys/id912536422?uo=2"
+        },
+        {
+          "rank": 10,
+          "name": "Balatro",
+          "developer": "Playstack Ltd",
+          "id": "6502453075",
+          "url": "https://apps.apple.com/us/app/balatro/id6502453075?uo=2"
+        }
+      ]
+    },
+    "overall-grossing": {
+      "updated": "2026-10-12T06:11:45-07:00",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "MONOPOLY GO!",
+          "developer": "Scopely, Inc.",
+          "id": "1621328561",
+          "url": "https://apps.apple.com/us/app/monopoly-go/id1621328561?uo=2"
+        },
+        {
+          "rank": 2,
+          "name": "Roblox",
+          "developer": "Roblox Corporation",
+          "id": "431946152",
+          "url": "https://apps.apple.com/us/app/roblox/id431946152?uo=2"
+        },
+        {
+          "rank": 3,
+          "name": "Royal Match",
+          "developer": "Dream Games",
+          "id": "1482155847",
+          "url": "https://apps.apple.com/us/app/royal-match/id1482155847?uo=2"
+        },
+        {
+          "rank": 4,
+          "name": "Gossip Harbor®: Merge & Story",
+          "developer": "Microfun Limited",
+          "id": "1623318294",
+          "url": "https://apps.apple.com/us/app/gossip-harbor-merge-story/id1623318294?uo=2"
+        },
+        {
+          "rank": 5,
+          "name": "Candy Crush Saga",
+          "developer": "King",
+          "id": "553834731",
+          "url": "https://apps.apple.com/us/app/candy-crush-saga/id553834731?uo=2"
+        },
+        {
+          "rank": 6,
+          "name": "Royal Kingdom",
+          "developer": "Dream Games",
+          "id": "1606549505",
+          "url": "https://apps.apple.com/us/app/royal-kingdom/id1606549505?uo=2"
+        },
+        {
+          "rank": 7,
+          "name": "Kingshot",
+          "developer": "Century Games Pte. Ltd.",
+          "id": "6739554056",
+          "url": "https://apps.apple.com/us/app/kingshot/id6739554056?uo=2"
+        },
+        {
+          "rank": 8,
+          "name": "Toon Blast",
+          "developer": "Peak Games",
+          "id": "1176027022",
+          "url": "https://apps.apple.com/us/app/toon-blast/id1176027022?uo=2"
+        },
+        {
+          "rank": 9,
+          "name": "Whiteout Survival",
+          "developer": "Century Games Pte. Ltd.",
+          "id": "6443575749",
+          "url": "https://apps.apple.com/us/app/whiteout-survival/id6443575749?uo=2"
+        },
+        {
+          "rank": 10,
+          "name": "Last War:Survival",
+          "developer": "FUNFLY PTE. LTD.",
+          "id": "6448786147",
+          "url": "https://apps.apple.com/us/app/last-war-survival/id6448786147?uo=2"
+        }
+      ]
+    },
+    "puzzle-free": {
+      "updated": "2026-10-12T06:11:45-07:00",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Meowdoku!",
+          "developer": "Oakever Games",
+          "id": "6761760135",
+          "url": "https://apps.apple.com/us/app/meowdoku/id6761760135?uo=2"
+        },
+        {
+          "rank": 2,
+          "name": "Block Out! - Color Sort Puzzle",
+          "developer": "Grand Games A.Ş.",
+          "id": "6752672568",
+          "url": "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568?uo=2"
+        },
+        {
+          "rank": 3,
+          "name": "Magic Sort!",
+          "developer": "Grand Games A.Ş.",
+          "id": "6499209744",
+          "url": "https://apps.apple.com/us/app/magic-sort/id6499209744?uo=2"
+        },
+        {
+          "rank": 4,
+          "name": "CubeAway - 3DPuzzle",
+          "developer": "GOODROID,Inc.",
+          "id": "6760325543",
+          "url": "https://apps.apple.com/us/app/cubeaway-3dpuzzle/id6760325543?uo=2"
+        },
+        {
+          "rank": 5,
+          "name": "Bus Fever Party!",
+          "developer": "Lumi Games",
+          "id": "6746743297",
+          "url": "https://apps.apple.com/us/app/bus-fever-party/id6746743297?uo=2"
+        },
+        {
+          "rank": 6,
+          "name": "Rotate Rings",
+          "developer": "Nebula Studio",
+          "id": "6793924927",
+          "url": "https://apps.apple.com/us/app/rotate-rings/id6793924927?uo=2"
+        },
+        {
+          "rank": 7,
+          "name": "Township",
+          "developer": "Playrix",
+          "id": "638689075",
+          "url": "https://apps.apple.com/us/app/township/id638689075?uo=2"
+        },
+        {
+          "rank": 8,
+          "name": "Block Blast！",
+          "developer": "Hungry Studio",
+          "id": "1617391485",
+          "url": "https://apps.apple.com/us/app/block-blast/id1617391485?uo=2"
+        },
+        {
+          "rank": 9,
+          "name": "Amaze GO!",
+          "developer": "Oakever Games",
+          "id": "6758326278",
+          "url": "https://apps.apple.com/us/app/amaze-go/id6758326278?uo=2"
+        },
+        {
+          "rank": 10,
+          "name": "Colony Flow!",
+          "developer": "ABI GLOBAL LTD.",
+          "id": "6779167923",
+          "url": "https://apps.apple.com/us/app/colony-flow/id6779167923?uo=2"
+        }
+      ]
+    },
+    "puzzle-paid": {
+      "updated": "2026-10-12T06:11:45-07:00",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Red's First Flight",
+          "developer": "Rovio Entertainment Oyj",
+          "id": "1596736236",
+          "url": "https://apps.apple.com/us/app/reds-first-flight/id1596736236?uo=2"
+        },
+        {
+          "rank": 2,
+          "name": "The Past Within",
+          "developer": "Rusty Lake",
+          "id": "1642601792",
+          "url": "https://apps.apple.com/us/app/the-past-within/id1642601792?uo=2"
+        },
+        {
+          "rank": 3,
+          "name": "Where's My Water?",
+          "developer": "Disney",
+          "id": "449735650",
+          "url": "https://apps.apple.com/us/app/wheres-my-water/id449735650?uo=2"
+        },
+        {
+          "rank": 4,
+          "name": "Servant of the Lake",
+          "developer": "Rusty Lake",
+          "id": "6748751735",
+          "url": "https://apps.apple.com/us/app/servant-of-the-lake/id6748751735?uo=2"
+        },
+        {
+          "rank": 5,
+          "name": "Machinarium",
+          "developer": "Amanita Design s.r.o.",
+          "id": "459189186",
+          "url": "https://apps.apple.com/us/app/machinarium/id459189186?uo=2"
+        },
+        {
+          "rank": 6,
+          "name": "Purple Place - Classic Games",
+          "developer": "Semyon Popov",
+          "id": "1461751938",
+          "url": "https://apps.apple.com/us/app/purple-place-classic-games/id1461751938?uo=2"
+        },
+        {
+          "rank": 7,
+          "name": "ArcFlush: Roguelike Solitaire",
+          "developer": "欣宇 王",
+          "id": "6792484651",
+          "url": "https://apps.apple.com/us/app/arcflush-roguelike-solitaire/id6792484651?uo=2"
+        },
+        {
+          "rank": 8,
+          "name": "Clue: Classic Edition",
+          "developer": "Marmalade Game Studio",
+          "id": "1150534552",
+          "url": "https://apps.apple.com/us/app/clue-classic-edition/id1150534552?uo=2"
+        },
+        {
+          "rank": 9,
+          "name": "A Little to the Left: Drawers",
+          "developer": "Secret Mode",
+          "id": "6738784092",
+          "url": "https://apps.apple.com/us/app/a-little-to-the-left-drawers/id6738784092?uo=2"
+        },
+        {
+          "rank": 10,
+          "name": "Monument Valley",
+          "developer": "ustwo games",
+          "id": "728293409",
+          "url": "https://apps.apple.com/us/app/monument-valley/id728293409?uo=2"
+        }
+      ]
+    },
+    "puzzle-grossing": {
+      "updated": "2026-10-12T06:11:46-07:00",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Royal Match",
+          "developer": "Dream Games",
+          "id": "1482155847",
+          "url": "https://apps.apple.com/us/app/royal-match/id1482155847?uo=2"
+        },
+        {
+          "rank": 2,
+          "name": "Gossip Harbor®: Merge & Story",
+          "developer": "Microfun Limited",
+          "id": "1623318294",
+          "url": "https://apps.apple.com/us/app/gossip-harbor-merge-story/id1623318294?uo=2"
+        },
+        {
+          "rank": 3,
+          "name": "Candy Crush Saga",
+          "developer": "King",
+          "id": "553834731",
+          "url": "https://apps.apple.com/us/app/candy-crush-saga/id553834731?uo=2"
+        },
+        {
+          "rank": 4,
+          "name": "Royal Kingdom",
+          "developer": "Dream Games",
+          "id": "1606549505",
+          "url": "https://apps.apple.com/us/app/royal-kingdom/id1606549505?uo=2"
+        },
+        {
+          "rank": 5,
+          "name": "Toon Blast",
+          "developer": "Peak Games",
+          "id": "1176027022",
+          "url": "https://apps.apple.com/us/app/toon-blast/id1176027022?uo=2"
+        },
+        {
+          "rank": 6,
+          "name": "Tasty Travels: Merge Game",
+          "developer": "Century Games Pte. Ltd.",
+          "id": "6471045672",
+          "url": "https://apps.apple.com/us/app/tasty-travels-merge-game/id6471045672?uo=2"
+        },
+        {
+          "rank": 7,
+          "name": "Match Factory!",
+          "developer": "Peak Games",
+          "id": "6449094229",
+          "url": "https://apps.apple.com/us/app/match-factory/id6449094229?uo=2"
+        },
+        {
+          "rank": 8,
+          "name": "Township",
+          "developer": "Playrix",
+          "id": "638689075",
+          "url": "https://apps.apple.com/us/app/township/id638689075?uo=2"
+        },
+        {
+          "rank": 9,
+          "name": "Gardenscapes",
+          "developer": "Playrix",
+          "id": "1105855019",
+          "url": "https://apps.apple.com/us/app/gardenscapes/id1105855019?uo=2"
+        },
+        {
+          "rank": 10,
+          "name": "Pixel Flow!",
+          "developer": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
+          "id": "6751056652",
+          "url": "https://apps.apple.com/us/app/pixel-flow/id6751056652?uo=2"
+        }
+      ]
+    },
+    "family-free": {
+      "updated": "2026-10-12T06:11:46-07:00",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "MONOPOLY GO!",
+          "developer": "Scopely, Inc.",
+          "id": "1621328561",
+          "url": "https://apps.apple.com/us/app/monopoly-go/id1621328561?uo=2"
+        },
+        {
+          "rank": 2,
+          "name": "Charades Guess Game · Guessly",
+          "developer": "smak apps",
+          "id": "6473058122",
+          "url": "https://apps.apple.com/us/app/charades-guess-game-guessly/id6473058122?uo=2"
+        },
+        {
+          "rank": 3,
+          "name": "Imposter Game - Party Edition",
+          "developer": "Sven Vucak",
+          "id": "6745120053",
+          "url": "https://apps.apple.com/us/app/imposter-game-party-edition/id6745120053?uo=2"
+        },
+        {
+          "rank": 4,
+          "name": "2 Player Games : Offline Games",
+          "developer": "Moreno Maio",
+          "id": "1465731199",
+          "url": "https://apps.apple.com/us/app/2-player-games-offline-games/id1465731199?uo=2"
+        },
+        {
+          "rank": 5,
+          "name": "UNO!™",
+          "developer": "Mattel Game Studios HK Limited",
+          "id": "1344700142",
+          "url": "https://apps.apple.com/us/app/uno/id1344700142?uo=2"
+        },
+        {
+          "rank": 6,
+          "name": "Magic Level 9: Tap Piano Game",
+          "developer": "Kim Nguyen",
+          "id": "1446874445",
+          "url": "https://apps.apple.com/us/app/magic-level-9-tap-piano-game/id1446874445?uo=2"
+        },
+        {
+          "rank": 7,
+          "name": "Hay Day",
+          "developer": "Supercell",
+          "id": "506627515",
+          "url": "https://apps.apple.com/us/app/hay-day/id506627515?uo=2"
+        },
+        {
+          "rank": 8,
+          "name": "My Supermarket Simulator 3D®",
+          "developer": "Game District LLC",
+          "id": "6511238101",
+          "url": "https://apps.apple.com/us/app/my-supermarket-simulator-3d/id6511238101?uo=2"
+        },
+        {
+          "rank": 9,
+          "name": "Crossy Road",
+          "developer": "HIPSTER WHALE",
+          "id": "924373886",
+          "url": "https://apps.apple.com/us/app/crossy-road/id924373886?uo=2"
+        },
+        {
+          "rank": 10,
+          "name": "Coloring Match",
+          "developer": "SUPERSONIC STUDIOS LTD",
+          "id": "1586980403",
+          "url": "https://apps.apple.com/us/app/coloring-match/id1586980403?uo=2"
+        }
+      ]
+    },
+    "family-paid": {
+      "updated": "2026-10-12T06:11:46-07:00",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "MONOPOLY: The Board Game",
+          "developer": "Marmalade Game Studio",
+          "id": "1477966166",
+          "url": "https://apps.apple.com/us/app/monopoly-the-board-game/id1477966166?uo=2"
+        },
+        {
+          "rank": 2,
+          "name": "Incredibox",
+          "developer": "So Far So Good",
+          "id": "1093131935",
+          "url": "https://apps.apple.com/us/app/incredibox/id1093131935?uo=2"
+        },
+        {
+          "rank": 3,
+          "name": "Pou",
+          "developer": "Zakeh Limited",
+          "id": "575154654",
+          "url": "https://apps.apple.com/us/app/pou/id575154654?uo=2"
+        },
+        {
+          "rank": 4,
+          "name": "The Game of Life 2",
+          "developer": "Marmalade Game Studio",
+          "id": "1512751689",
+          "url": "https://apps.apple.com/us/app/the-game-of-life-2/id1512751689?uo=2"
+        },
+        {
+          "rank": 5,
+          "name": "Animal Crossing: Pocket Camp C",
+          "developer": "Nintendo Co., Ltd.",
+          "id": "6547834967",
+          "url": "https://apps.apple.com/us/app/animal-crossing-pocket-camp-c/id6547834967?uo=2"
+        },
+        {
+          "rank": 6,
+          "name": "Where's My Water?",
+          "developer": "Disney",
+          "id": "449735650",
+          "url": "https://apps.apple.com/us/app/wheres-my-water/id449735650?uo=2"
+        },
+        {
+          "rank": 7,
+          "name": "Backyard Baseball '01",
+          "developer": "Playground Productions LLC",
+          "id": "6740349587",
+          "url": "https://apps.apple.com/us/app/backyard-baseball-01/id6740349587?uo=2"
+        },
+        {
+          "rank": 8,
+          "name": "Ticket to Ride®",
+          "developer": "Marmalade Game Studio",
+          "id": "6463616555",
+          "url": "https://apps.apple.com/us/app/ticket-to-ride/id6463616555?uo=2"
+        },
+        {
+          "rank": 9,
+          "name": "The Game of Life",
+          "developer": "Marmalade Game Studio",
+          "id": "1117405948",
+          "url": "https://apps.apple.com/us/app/the-game-of-life/id1117405948?uo=2"
+        },
+        {
+          "rank": 10,
+          "name": "Backyard Baseball '97",
+          "developer": "Playground Productions LLC",
+          "id": "6740349666",
+          "url": "https://apps.apple.com/us/app/backyard-baseball-97/id6740349666?uo=2"
+        }
+      ]
+    },
+    "family-grossing": {
+      "updated": "2026-10-12T06:11:46-07:00",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "MONOPOLY GO!",
+          "developer": "Scopely, Inc.",
+          "id": "1621328561",
+          "url": "https://apps.apple.com/us/app/monopoly-go/id1621328561?uo=2"
+        },
+        {
+          "rank": 2,
+          "name": "Hay Day",
+          "developer": "Supercell",
+          "id": "506627515",
+          "url": "https://apps.apple.com/us/app/hay-day/id506627515?uo=2"
+        },
+        {
+          "rank": 3,
+          "name": "Yahtzee® with Buddies Dice",
+          "developer": "Scopely, Inc.",
+          "id": "1206967173",
+          "url": "https://apps.apple.com/us/app/yahtzee-with-buddies-dice/id1206967173?uo=2"
+        },
+        {
+          "rank": 4,
+          "name": "Matchington Mansion",
+          "developer": "Magic Tavern, Inc.",
+          "id": "1216575026",
+          "url": "https://apps.apple.com/us/app/matchington-mansion/id1216575026?uo=2"
+        },
+        {
+          "rank": 5,
+          "name": "Sort Express!",
+          "developer": "Circle Games",
+          "id": "6739867121",
+          "url": "https://apps.apple.com/us/app/sort-express/id6739867121?uo=2"
+        },
+        {
+          "rank": 6,
+          "name": "Merge Dragons!",
+          "developer": "Gram Games",
+          "id": "1208952944",
+          "url": "https://apps.apple.com/us/app/merge-dragons/id1208952944?uo=2"
+        },
+        {
+          "rank": 7,
+          "name": "TopTop: Games & Party",
+          "developer": "MX INNOVATION PTE. LTD.",
+          "id": "6748342498",
+          "url": "https://apps.apple.com/us/app/toptop-games-party/id6748342498?uo=2"
+        },
+        {
+          "rank": 8,
+          "name": "UNO!™",
+          "developer": "Mattel Game Studios HK Limited",
+          "id": "1344700142",
+          "url": "https://apps.apple.com/us/app/uno/id1344700142?uo=2"
+        },
+        {
+          "rank": 9,
+          "name": "Ludo STAR",
+          "developer": "Gameberry Labs",
+          "id": "1198143062",
+          "url": "https://apps.apple.com/us/app/ludo-star/id1198143062?uo=2"
+        },
+        {
+          "rank": 10,
+          "name": "Heartopia",
+          "developer": "XD Entertainment Co., Ltd.",
+          "id": "6746151928",
+          "url": "https://apps.apple.com/us/app/heartopia/id6746151928?uo=2"
+        }
+      ]
+    }
+  }
+}

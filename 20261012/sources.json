@@ -1,0 +1,89 @@
+{
+  "reportDate": "2026-10-12",
+  "collectedAt": "2026-10-12T21:12:09+08:00",
+  "country": "us",
+  "device": "App Store iOS",
+  "feeds": [
+    {
+      "file": "overall-free.json",
+      "url": "https://itunes.apple.com/us/rss/topfreeapplications/limit=10/genre=6014/json"
+    },
+    {
+      "file": "overall-paid.json",
+      "url": "https://itunes.apple.com/us/rss/toppaidapplications/limit=10/genre=6014/json"
+    },
+    {
+      "file": "overall-grossing.json",
+      "url": "https://itunes.apple.com/us/rss/topgrossingapplications/limit=10/genre=6014/json"
+    },
+    {
+      "file": "puzzle-free.json",
+      "url": "https://itunes.apple.com/us/rss/topfreeapplications/limit=10/genre=7012/json"
+    },
+    {
+      "file": "puzzle-paid.json",
+      "url": "https://itunes.apple.com/us/rss/toppaidapplications/limit=10/genre=7012/json"
+    },
+    {
+      "file": "puzzle-grossing.json",
+      "url": "https://itunes.apple.com/us/rss/topgrossingapplications/limit=10/genre=7012/json"
+    },
+    {
+      "file": "family-free.json",
+      "url": "https://itunes.apple.com/us/rss/topfreeapplications/limit=10/genre=7009/json"
+    },
+    {
+      "file": "family-paid.json",
+      "url": "https://itunes.apple.com/us/rss/toppaidapplications/limit=10/genre=7009/json"
+    },
+    {
+      "file": "family-grossing.json",
+      "url": "https://itunes.apple.com/us/rss/topgrossingapplications/limit=10/genre=7009/json"
+    }
+  ],
+  "images": [
+    {
+      "file": "drop-sort-01.webp",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/fd/c4/09fdc404-877b-af7c-a7a1-51ad57e2abc2/6.png/600x1300bb.webp"
+    },
+    {
+      "file": "drop-sort-02.webp",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/78/59/fb785978-e1c1-0132-b796-5d5fec5b0ba0/1.png/600x1300bb.webp"
+    },
+    {
+      "file": "drop-sort-03.webp",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/93/bb/1293bbab-e603-c7b5-3f74-b21580535c8b/3.png/600x1300bb.webp"
+    },
+    {
+      "file": "castlevania-01.png",
+      "url": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/kv2_pc.png"
+    },
+    {
+      "file": "castlevania-02.jpg",
+      "url": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/ss/gs_boss_1.jpg"
+    },
+    {
+      "file": "castlevania-03.jpg",
+      "url": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/ss/gs_boss_2.jpg"
+    },
+    {
+      "file": "blade-runner-01.jpg",
+      "url": "https://assets.aboutamazon.com/dims4/default/32a35e7/2147483647/strip/true/crop/1600x900+0+0/resize/1320x743!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2Fe5%2F19%2F421bff3c48a9970f09756b2c0f5e%2Funtitled-24-july-2026-at-10-34-27-1.png"
+    },
+    {
+      "file": "blade-runner-02.jpg",
+      "url": "https://assets.aboutamazon.com/dims4/default/5f6553e/2147483647/strip/true/crop/1600x900+0+0/resize/1320x743!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F7c%2F4a%2F3376fd8a4eea8872f5b30ea79f85%2Funtitled-24-july-2026-at-10-34-27-1-1.png"
+    },
+    {
+      "file": "gemini-argon.png",
+      "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-10-01_at_10.37.29.width-1300.png"
+    }
+  ],
+  "articles": {
+    "game": "https://www.konami.com/games/castlevania/belmonts_curse/eu/en/",
+    "gameDemo": "https://www.konami.com/games/eu/en/topics/19339/",
+    "film": "https://www.aboutamazon.com/news/entertainment/blade-runner-2099-prime-video",
+    "ai": "https://blog.google/intl/en-mena/company-news/technology/gemini-4-argon-our-next-era-of-frontier-intelligence/"
+  },
+  "gameApp": "https://apps.apple.com/us/app/drop-sort-jam/id6766399887"
+}
