@@ -1,0 +1,402 @@
+{
+  "reportDate": "2026-10-30",
+  "sources": [
+    {
+      "title": "Apple iTunes RSS · overall · free",
+      "date": "2026-10-30T02:58:46-07:00",
+      "url": "https://itunes.apple.com/us/rss/topfreeapplications/limit=10/genre=6014/json"
+    },
+    {
+      "title": "Apple iTunes RSS · overall · paid",
+      "date": "2026-10-30T02:58:46-07:00",
+      "url": "https://itunes.apple.com/us/rss/toppaidapplications/limit=10/genre=6014/json"
+    },
+    {
+      "title": "Apple iTunes RSS · overall · grossing",
+      "date": "2026-10-30T02:58:47-07:00",
+      "url": "https://itunes.apple.com/us/rss/topgrossingapplications/limit=10/genre=6014/json"
+    },
+    {
+      "title": "Apple iTunes RSS · puzzle · free",
+      "date": "2026-10-30T02:58:47-07:00",
+      "url": "https://itunes.apple.com/us/rss/topfreeapplications/limit=10/genre=7012/json"
+    },
+    {
+      "title": "Apple iTunes RSS · puzzle · paid",
+      "date": "2026-10-30T02:58:47-07:00",
+      "url": "https://itunes.apple.com/us/rss/toppaidapplications/limit=10/genre=7012/json"
+    },
+    {
+      "title": "Apple iTunes RSS · puzzle · grossing",
+      "date": "2026-10-30T02:58:47-07:00",
+      "url": "https://itunes.apple.com/us/rss/topgrossingapplications/limit=10/genre=7012/json"
+    },
+    {
+      "title": "Apple iTunes RSS · family · free",
+      "date": "2026-10-30T02:58:47-07:00",
+      "url": "https://itunes.apple.com/us/rss/topfreeapplications/limit=10/genre=7009/json"
+    },
+    {
+      "title": "Apple iTunes RSS · family · paid",
+      "date": "2026-10-30T02:58:47-07:00",
+      "url": "https://itunes.apple.com/us/rss/toppaidapplications/limit=10/genre=7009/json"
+    },
+    {
+      "title": "Apple iTunes RSS · family · grossing",
+      "date": "2026-10-30T02:58:47-07:00",
+      "url": "https://itunes.apple.com/us/rss/topgrossingapplications/limit=10/genre=7009/json"
+    },
+    {
+      "title": "TAMAGOTORI Deluxe · Steam 官方商店",
+      "date": "访问于2026-10-30",
+      "url": "https://store.steampowered.com/app/4971990/Hatsune_Miku_Connecting_Puzzle_TAMAGOTORI_Deluxe/"
+    },
+    {
+      "title": "KOMODO · 新平台版发售公告",
+      "date": "2026-10-21 公告；10-29 JST 发售",
+      "url": "https://komodo.jp/news/20261021_hatsune-miku-connecting-puzzle-tamagotori-deluxe-makes-its-playstation-and-steam-debut-october-29.html"
+    },
+    {
+      "title": "Phantom Blade Zero · 首领武器、战斗与探索",
+      "date": "2026-10-28",
+      "url": "https://blog.playstation.com/2026/10/28/phantom-blade-zero-how-boss-weapons-transform-combat-and-exploration/"
+    },
+    {
+      "title": "Phantom Blade Zero · Steam 官方商店",
+      "date": "访问于2026-10-30",
+      "url": "https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/"
+    },
+    {
+      "title": "Collision Course · Netflix 官方预告与排期",
+      "date": "2026-09-30 公告；10-30 上线",
+      "url": "https://about.netflix.com/en/news/netflix-unveils-the-official-trailer-for-collision-course-a-thriller-by-daniel-sanchez-arevalo"
+    },
+    {
+      "title": "AI for Science 扩展合作 · Anthropic",
+      "date": "2026-10-28",
+      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions"
+    }
+  ],
+  "assets": [
+    {
+      "file": "miku-01.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4971990/0a76e88b6cbe15e05847a3f4f11f4820de891a65/ss_0a76e88b6cbe15e05847a3f4f11f4820de891a65.1920x1080.jpg?t=1793260460"
+    },
+    {
+      "file": "miku-02.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4971990/da9afccf30b598a4a1dcce8365723de500a18996/ss_da9afccf30b598a4a1dcce8365723de500a18996.1920x1080.jpg?t=1793260460"
+    },
+    {
+      "file": "miku-03.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4971990/d3beb58e840481053167aeb95ab466c74d9062d2/ss_d3beb58e840481053167aeb95ab466c74d9062d2.1920x1080.jpg?t=1793260460"
+    },
+    {
+      "file": "phantom-01.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/b2ebc232d3d88eafa8546f65b90d8dc8d2ece0b4/ss_b2ebc232d3d88eafa8546f65b90d8dc8d2ece0b4.1920x1080.jpg?t=1793261976"
+    },
+    {
+      "file": "phantom-02.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/53cc6faf8d70d29593495b2eaffc4c08761989ce/ss_53cc6faf8d70d29593495b2eaffc4c08761989ce.1920x1080.jpg?t=1793261976"
+    },
+    {
+      "file": "phantom-03.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/b0e2a5cbc38c67ffa2264d4067a6dc26aff2d9c6/ss_b0e2a5cbc38c67ffa2264d4067a6dc26aff2d9c6.1920x1080.jpg?t=1793261976"
+    },
+    {
+      "file": "phantom-key.jpg",
+      "url": "https://blog.playstation.com/tachyon/2026/10/ec5c0d2e679dafae07f9cca8e57d110598289457.jpg"
+    },
+    {
+      "file": "collision.jpg",
+      "url": "https://images.ctfassets.net/4cd45et68cgf/2SxGRDLP2fqgFjHNN65JJo/e3a4d7423c83deee0a66d476c91c8c33/Captura_de_pantalla_2026-09-08_a_las_19.47.31.png?w=2000"
+    },
+    {
+      "file": "science.jpg",
+      "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/5b18c53b35c0425fda21efaf2c3bcf10761798ec-2000x1125.jpg"
+    },
+    {
+      "file": "6761760135.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/6c/e6/e36ce6bc-bd13-4658-d15e-c31347de4563/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "6752672568.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/1b/1d/911b1df9-6703-2b81-aa3c-16b38a18c494/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "6499209744.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/13/98/281398d0-ffa8-152d-0e1f-c1f2d35adaf5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "6444520814.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/73/e0/0073e0c8-a9e4-1956-8966-f83a136ee71e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "6757140488.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/59/cb/c659cb87-b681-4be3-172d-569aec073029/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "1617391485.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/a9/19/baa9198e-fc78-56ed-fdea-e35728062a4d/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "6793924927.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/59/b8/8259b880-be6d-464a-7de7-6b5739273b95/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "6468921495.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/55/11/f6551153-c3a0-89f5-0aad-f7b4049b1cd8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "329218549.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/b8/e0/91b8e01b-bf34-8031-4c01-e38170ea7211/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "638689075.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/3c/77/833c7735-48b5-c3b5-bca3-32e438c977e1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "479516143.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/09/34/720934b1-4519-6661-cc9c-075075d54a38/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "625334537.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/54/50/c25450dd-65ad-c273-fec0-1ef0469968cb/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png"
+    },
+    {
+      "file": "623592465.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/36/16/5736162d-2147-61a8-2eba-419c19bb2067/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "525818839.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/74/1c/dd741c2a-043b-dc73-d83d-3c81abed681a/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "1118115766.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/ea/72/ecea728c-c718-b232-3078-98cbfd464349/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "6502453075.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/13/c3/2e13c321-e1b0-e958-3def-f5c3d38be1c8/iOS_AppIcon_Premium-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "1406710800.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/df/12/0edf1230-3f6e-fbb3-7f72-f2aa844d100a/AppIcons-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "6813841355.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/ed/0e/85ed0eff-ae59-80bd-50e6-0646c6b66f0e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "6754094013.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/e9/f1/dce9f175-a3ed-b153-f92a-8c276ea0b275/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "1477966166.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/23/4b/bf234bef-ca37-d05c-3ad2-63b8be86e4d9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "1621328561.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/4f/ff/5d4fff52-e38d-8964-1a1c-8cea13cb76e9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "1623318294.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/97/53/c497535d-bc4b-6afd-75e4-eb5a4956714d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "1482155847.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/85/fc/0385fc2f-21d2-0f0e-eec6-b0074492816a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "431946152.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/73/78/c4737895-ef0a-5de8-35b0-67b9bd2f55d8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "6479970832.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/36/be/cc36be7e-34a8-367e-5ebb-343175027e2a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "553834731.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/09/85/4609855b-e862-83c5-210b-d49a62882c66/AppIconV1-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "6443575749.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/9e/98/e69e9840-fa2b-7b53-c7f9-75a75021de26/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "1606549505.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/11/43/4e11436e-6eea-e5f0-8503-b2e0213d8e22/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "6739554056.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/0f/79/c70f7971-1dcd-473a-4441-b328dc9afb5a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "1094591345.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/dc/39/eadc39e3-9f46-fe9e-7810-3b943989bf96/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "6760325543.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/c7/7b/51c77bcc-fa99-7bd6-aab0-9df976598ced/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png"
+    },
+    {
+      "file": "6759763476.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/66/13/a96613da-a816-17ef-b4d4-538a75165ae5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png"
+    },
+    {
+      "file": "6779167923.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/12/c7/b012c763-4dca-924e-e7e8-f9718529cae2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "1596736236.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/86/b7/4c86b75c-b454-06fd-c854-1517ddfac1c7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "449735650.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3b/61/31/3b61311b-af40-6af9-83c6-c8eb7ca4ad93/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png"
+    },
+    {
+      "file": "6738784092.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/15/1f/ca151fa8-6f3c-0191-7f7d-88be9097fc21/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "728293409.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/8e/d8/218ed8a3-c616-9ec7-419e-368073b9deb7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "1642601792.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/2c/df/bb2cdff2-5289-a7b8-da79-4b7323917d16/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "6817092898.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/53/8f/8e538f98-d4fd-ca7b-a092-447425993c2d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "6748751735.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/d2/d4/80d2d4b4-80b2-3117-ca0b-0317d5593a40/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "1252260233.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/16/4a/4d164a11-13a5-2397-ae4c-c93852f4cff0/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png"
+    },
+    {
+      "file": "6792484651.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/f2/b7/8ff2b7cf-b141-c3a4-9e72-d7e3f465a62c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "1610947489.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/40/e1/ab/40e1abb0-cfcb-1efb-2eac-f8b274028e8c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png"
+    },
+    {
+      "file": "1105855019.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/b1/f0/dbb1f00e-5031-70dd-3b6f-9a4feb52635f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "1176027022.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/dd/6e/3add6ec7-b780-9aff-c964-4cca062fe752/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "6449094229.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/05/0e/7b050ea0-6b65-38d8-96ee-836fcc83eb08/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "6471045672.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/0c/1a/560c1a47-71c3-8816-eed1-274d064e5ad6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "1344700142.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/1a/e9/881ae98f-dfd9-0bba-902c-c71d4d312c1b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "6745120053.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/69/e0/1069e0bd-1564-9f77-7ea4-a8072e6e90ff/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "1465731199.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/14/c1/7c14c1e3-502e-ed28-e663-1d42507eabfb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "6473058122.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/94/ce/d494ced3-46fe-f8e9-7bbc-d80356c187a6/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.jpeg/100x100bb.png"
+    },
+    {
+      "file": "506627515.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/50/bc/0e50bce7-2b3a-3964-832d-9951131a2746/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "1446874445.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/01/45/7e01450b-220d-cde3-da1b-098b66f0e6dc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "6511238101.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/c5/d7/dec5d7f0-678a-4307-6a10-6e5f6b4ce290/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png"
+    },
+    {
+      "file": "924373886.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/9f/6a/c09f6afb-1a26-6344-bc6f-a966be3774ae/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "1673039373.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/8d/fc/858dfc2a-9acc-de08-637c-aca21ed49cdc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "575154654.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/73/60/90736025-7f90-7736-49d3-d63527ccc4a5/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "1093131935.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/2b/6c/d02b6c61-94fe-4863-56ae-a2a522061147/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "6547834967.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/2d/5c/8e2d5cb5-de9a-4f0b-618d-696159bb922c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "1512751689.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/6b/3f/346b3fa2-96e3-4338-f0be-bd70c3c50ffc/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png"
+    },
+    {
+      "file": "6463616555.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/ab/d2/c6abd2e6-df22-25eb-3e37-e35e3f60ee2b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "6740349587.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/2d/3e/f22d3ebd-1e8e-0f33-aeb9-8a65b6daf3f8/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png"
+    },
+    {
+      "file": "1117405948.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a9/26/77/a9267700-c72f-df17-27f0-96987956068d/AppIcon-1x_U007emarketing-85-220-6.png/100x100bb.png"
+    },
+    {
+      "file": "6740349855.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/0d/89/9f0d89ea-0273-bed7-52ce-e4f562dd22d9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "1206967173.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/b4/11/ceb4110e-a557-a86d-0788-d5882f06e28c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "6739867121.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/c8/1d/d8c81d2d-1207-522d-4f35-2d22b556e1ff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "1208952944.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/b4/18/64b4185a-cbea-6872-b901-65b23fed5097/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "6748342498.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/4d/f8/834df868-bcd0-2510-5ba9-d6d950cf5a85/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "1198143062.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/8b/3f/288b3fd9-6ba9-95c7-53cb-24731658573f/LudoAppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png"
+    },
+    {
+      "file": "1216575026.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/76/54/fe7654f9-32b2-7365-39e8-9009cd6b9947/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png"
+    },
+    {
+      "file": "1419536376.png",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/54/ca/fc54cad3-bb33-f091-d522-39dbc1d95dfa/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png"
+    }
+  ]
+}
