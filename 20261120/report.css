@@ -1,0 +1,53 @@
+/* Keep the established layout intact on a fitted 1440 x 810 presentation stage. */
+html, body { width: 100%; height: 100%; overflow: hidden; }
+body.tpl-game-weekly { background: var(--bg); }
+body.tpl-game-weekly:has(.deck > .slide.is-active.dark-slide) { background: var(--ink); }
+.tpl-game-weekly .deck { position: absolute; width: 1440px; height: 810px; transform-origin: top left; }
+.tpl-game-weekly .slide { padding: 52px 80px 54px; }
+.tpl-game-weekly .source-corner { position: absolute; left: 80px; bottom: 28px; z-index: 5; font-size: 11px; color: var(--text-3); }
+.tpl-game-weekly .source-corner.inverse { color: var(--inverse-muted); }
+.tpl-game-weekly .brand-mark { color: var(--text-1); }
+.tpl-game-weekly .dark-slide .brand-mark { color: var(--inverse); }
+.tpl-game-weekly .cover-top { left: 80px; right: 80px; top: 65px; }
+.tpl-game-weekly .cover-content { left: 80px; }
+.tpl-game-weekly .cover-title { font-size: 132px; }
+.tpl-game-weekly .cover-lede { max-width: 560px; font-size: 20px; }
+.tpl-game-weekly .cover-showcase-card { width: 193px; }
+.tpl-game-weekly .agenda-intro { margin: 72px 0 37px; }
+.tpl-game-weekly .rank-focus { width: min(100%, 1000px); aspect-ratio: 1920 / 980; }
+.tpl-game-weekly .rank-focus img { object-fit: contain; }
+.tpl-game-weekly .rank-focus-heading { margin: 26px 10px 14px; }
+.tpl-game-weekly .rank-focus-caption { font-family: var(--font-sans); font-size: 12px; }
+.tpl-game-weekly .yarn-layout { gap: 58px; padding: 24px 14px 24px 12px; }
+.tpl-game-weekly .yarn-copy .h2 { font-size: 64px; }
+.tpl-game-weekly .yarn-body { max-width: 430px; }
+.tpl-game-weekly .phone img { height: 420px; }
+.tpl-game-weekly .insight-slide > .eyebrow { margin-top: 36px; }
+.tpl-game-weekly .insight-layout { margin-top: 30px; gap: 30px; }
+.tpl-game-weekly .mechanic-card { min-height: 104px; padding: 16px 22px; }
+.tpl-game-weekly .verdict-card { min-height: 348px; padding: 28px; }
+.tpl-game-weekly .verdict-card h3 { font-size: 29px; }
+.tpl-game-weekly .black-myth-heading { margin: 38px 0 23px; }
+.tpl-game-weekly .black-myth-heading .h2 { font-size: 55px; }
+.tpl-game-weekly .myth-1 img { object-position: center 50%; }
+.tpl-game-weekly .route-slide > .eyebrow { margin-top: 36px; }
+.tpl-game-weekly .route-layout { margin-top: 32px; gap: 48px; }
+.tpl-game-weekly .route-statement { padding: 32px; }
+.tpl-game-weekly .jewelry-copy .h2 { font-size: 52px; }
+.tpl-game-weekly .ring-gallery { height: 516px; }
+.tpl-game-weekly .ring-main { right: 66px; }
+.tpl-game-weekly .ring-main img { object-position: 60% center; }
+.tpl-game-weekly .ring-detail { width: 280px; height: 190px; bottom: 32px; }
+.tpl-game-weekly .teen-layout { margin-top: 36px; gap: 54px; }
+.tpl-game-weekly .teen-visual { height: 450px; display: flex; align-items: center; background: var(--surface); }
+.tpl-game-weekly .teen-visual img { object-fit: contain; height: auto; width: 100%; }
+.tpl-game-weekly .teen-copy .h2 { font-size: 64px; }
+.tpl-game-weekly .teen-age { font-size: 26px; }
+.tpl-game-weekly .teen-trend p { font-size: 15px; }
+.tpl-game-weekly .summary-slide > .eyebrow { margin-top: 36px; }
+.tpl-game-weekly .summary-grid { margin-top: 34px; }
+.tpl-game-weekly .summary-card { min-height: 300px; }
+.tpl-game-weekly .end-title { font-size: 144px; }
+/* Presenter previews show the completed layout while audience animations stay intact. */
+html[data-preview="1"] *, html[data-preview="1"] *::before, html[data-preview="1"] *::after { animation: none !important; transition: none !important; }
+html[data-preview="1"] .tpl-game-weekly .cover-showcase-card { opacity: .92; transform: translate(calc(-50% + var(--x)), calc(-50% + var(--y))) rotate(var(--rotate)); }
